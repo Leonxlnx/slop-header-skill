@@ -1,6 +1,6 @@
 ---
 name: subheading-slop
-description: Generate funny AI landing-page slop on purpose. A boring section label plus a smug one-line subline, often ruined by a deadpan kicker ("Features / Less filing. More finding.", "the toilet, where real shit happens. twice a day."). Use when someone gives any word, product, phrase, list of section labels or "Label: description" pairs and wants parody heading + subheading copy, or says "slop up", "sloppify" or "make it AI slop".
+description: 'Generate funny AI landing-page slop on purpose. A boring section label plus a smug one-line subline, often ruined by a deadpan kicker ("Features / Less filing. More finding.", "the toilet, where real shit happens. twice a day."). Use when someone gives any word, product, phrase, list of section labels or "Label: description" pairs and wants parody heading + subheading copy, or says "slop up", "sloppify" or "make it AI slop".'
 ---
 
 # Subheading Slop
